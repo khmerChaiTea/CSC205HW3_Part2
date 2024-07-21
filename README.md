@@ -3,8 +3,6 @@ Homework #3 Part2
 2. Exercise that uses StreamReader, StreamWriter, Command-Line Arguments. Write a program that reads a text file (C# source code for example), inserts line numbers, instead of displaying to the Console window,  writes out to a text file. Your program runs on the command line like the following:
       Program.exe  Hello.cs  Hello2.cs
 
-Here is the Link for part2. https://github.com/khmerChaiTea/CSC205HW3_Part2/tree/master/Program
-
 To copy the read file to another file,
 Step 1, we need a file to read. Such as Hello.cs or words.txt. Make sure to put it in the directory of the Program.exe (or What name you gave it with .exe). It is located in the \Program\bin\Debug.
 
